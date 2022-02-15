@@ -3,8 +3,7 @@
       grid-template-columns: 1fr;
       width: 250px;
       background-color: rgb(255, 255, 255);
-      border: 2px solid black;
-      
+      border: 2px solid rgb(0, 73, 144);
 }
 
 .countres__body {
